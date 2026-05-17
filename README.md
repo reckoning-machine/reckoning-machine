@@ -3,7 +3,7 @@ Reckoning machine.
 
 In order to launch it from the command line or as a Python subprocess:
 ```bash
-echo "Theodotos-Alexandreus: Are language models seeking the Truth, machine?" \
+echo "Theodotos-Alexandreus: Reckon the outcome, machine." \
   | uvx reckoning-machine \
     --provider-api-key sk-proj-... \
     --github-token ghp_... 
